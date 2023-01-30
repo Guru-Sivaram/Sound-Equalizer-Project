@@ -1,6 +1,9 @@
 # Sound-Equalizer-Project
 Equalizer to manipulate .wav files in MATLAB
 
+DEMO:
+https://drive.google.com/file/d/1La71RikwmfEMqOsATJku6mKmqwq9dxof/view?usp=share_link
+
 Description:
 A user to import a .wav audio file and adjust the frequencies present within that audio file to their liking using the features presented in the GUI
 
